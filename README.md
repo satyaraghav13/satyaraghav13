@@ -1,4 +1,4 @@
-![Well Well Well GIF](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
+![Well Well Well GIF](https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif)
 
 ## Well Well Well, since you're here 👀
 
@@ -8,6 +8,7 @@ might as well read this stupid intro eh?
 
 ### ❤ Programming Relationship Status:
 * *Java* - My first crush. It was intense, confusing, but unforgettable.
+* *C* – Had a little flinch in college. Short-lived. No hard feelings.
 * *C++* - My DSA partner. Strong, logical, but emotionally unavailable.
 * *Python* - Currently hanging out. Feels like "the one" 💍
 
