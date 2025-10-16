@@ -1,4 +1,4 @@
-![Well Well Well GIF](https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif)
+![Well Well Well GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW96cG05NGt5bWxtcXE1c2JxbnBtZXAzNm1zMDAzenQxcm82OGdiciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bh45DNX3kz5Re/giphy.gif)
 
 ## Well Well Well, since you're here 👀
 
