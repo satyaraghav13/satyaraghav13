@@ -8,9 +8,9 @@ might as well read this stupid intro eh?
 
 ### ❤ Programming Relationship Status:
 * *Java* - My first crush. It was intense, confusing, but unforgettable.
-* *C* – Had a little flinch in college. Short-lived. No hard feelings.
-* *C++* - My DSA partner. Strong, logical, but emotionally unavailable.
-* *Python* - Currently hanging out. Feels like "the one" 💍
+* *JavaScript* – Had a little flinch in college. Short-lived. No hard feelings.
+* *HTML/CSS* - My HTML/CSS partner. Strong, logical, but emotionally unavailable.
+* *React* - Currently hanging out. Feels like "the one" 💍
 
 ### 🧠 Fun Facts:
 * If my code works on the first try, I double-check if I'm dreaming.
